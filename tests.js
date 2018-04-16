@@ -1,4 +1,4 @@
-var index = Susan
+var index = "Susan"
 
 if (index.name === "Susan") {
     console.log("The name is correct")
