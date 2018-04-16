@@ -1,6 +1,6 @@
 var index = "Susan"
 
-if (index.name === "Susan") {
+if (index=== "Susan") {
     console.log("The name is correct")
 } else {
     console.log("Expected: Susan, Received: "+index.name)
